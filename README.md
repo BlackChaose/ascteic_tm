@@ -1,11 +1,11 @@
 # bookmarks_pages_cheatsheets
-my bookmarks, pages, cheatsheets...
+## my bookmarks, pages, cheatsheets...
 
-**Pages:**
+### **Pages:**
 
 https://github.com/Hexlet/ru-test-assignments
 
-**Handbooks & manuals:**
+### **Handbooks & manuals:**
 
 https://developer.mozilla.org
 
@@ -13,7 +13,7 @@ https://css-tricks.com/
 
 https://phpunit.readthedocs.io/en/8.1/
 
-**Libs:**
+### **Libs:**
 
 https://lodash.com
 
@@ -22,23 +22,26 @@ https://carbon.nesbot.com
 https://github.com/danielstjules/Stringy
 
 
-**Libraryes:**
+### **Libraryes:**
 
 http://www.allitebooks.org/
 
 https://github.com/EbookFoundation/free-programming-books
 
-**Books:**
+
+### **Books:**
 
 
 [Matt Zandstra: "PHP Objects, Patterns, and Practice 5th ed. Edition"](https://www.amazon.com/Objects-Patterns-Practice-MATT-ZANDSTRA/dp/1484219953/ref=sr_1_1?keywords=Zandstra+php&qid=1557613193&s=books&sr=1-1)
 
 
-**Fundamental theory:**
+
+### **Fundamental theory:**
 
 [Steven S S. Skiena: "The Algorithm Design Manual"](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_1?qid=1557613071&refinements=p_27%3ASteven+S+S.+Skiena&s=books&sr=1-1&text=Steven+S+S.+Skiena)
 
-**Online courses:**
+
+### **Online courses:**
 
 
 https://hexlet.io
