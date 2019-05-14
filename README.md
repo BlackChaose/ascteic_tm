@@ -28,6 +28,8 @@ http://www.allitebooks.org/
 
 https://github.com/EbookFoundation/free-programming-books
 
+https://github.com/tightenco/collect
+
 
 ### **Books:**
 
