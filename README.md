@@ -13,6 +13,8 @@ https://css-tricks.com/
 
 https://phpunit.readthedocs.io/en/8.1/
 
+https://laravel.com/docs/5.8/collections
+
 ### **Libs:**
 
 https://lodash.com
