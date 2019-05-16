@@ -15,6 +15,8 @@ https://phpunit.readthedocs.io/en/8.1/
 
 https://laravel.com/docs/5.8/collections
 
+https://www.w3schools.com/php7/php7_mysql_connect.asp
+
 ### **Libs:**
 
 https://lodash.com
