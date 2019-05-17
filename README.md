@@ -25,6 +25,8 @@ https://carbon.nesbot.com
 
 https://github.com/danielstjules/Stringy
 
+https://github.com/tightenco/collect
+
 
 ### **Libraryes:**
 
@@ -32,7 +34,6 @@ http://www.allitebooks.org/
 
 https://github.com/EbookFoundation/free-programming-books
 
-https://github.com/tightenco/collect
 
 
 ### **Books:**
