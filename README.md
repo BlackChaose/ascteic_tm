@@ -28,7 +28,17 @@ https://github.com/danielstjules/Stringy
 https://github.com/tightenco/collect
 
 
-### **Libraryes:**
+### tests
+
+https://www.chaijs.com/
+
+http://phantomjs.org/
+
+https://webdriver.io/docs/gettingstarted.html
+
+
+
+### **Book Libraryes:**
 
 http://www.allitebooks.org/
 
