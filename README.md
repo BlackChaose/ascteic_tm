@@ -80,3 +80,12 @@ https://javarush.ru
 https://freecodecamp.org
 
 https://www.w3schools.com
+
+https://www.coursera.org/learn/c-plus-plus-white?specialization=c-plus-plus-modern-development
+
+https://www.coursera.org/learn/c-plus-plus-yellow?specialization=c-plus-plus-modern-development
+
+https://www.coursera.org/specializations/razrabotka-interfeysov
+
+https://www.coursera.org/learn/snovy-html-i-css
+
