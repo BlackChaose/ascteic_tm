@@ -17,6 +17,10 @@ https://laravel.com/docs/5.8/collections
 
 https://www.w3schools.com/php7/php7_mysql_connect.asp
 
+http://www.cplusplus.com
+
+
+
 ### **Libs:**
 
 https://lodash.com
