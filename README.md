@@ -92,16 +92,17 @@ https://www.coursera.org/learn/snovy-html-i-css
 
 ### links from цифровойпрорыв.рф
 
-Ruby
+#### Ruby
 
-Рекомендации
-Онлайн – курсы:
+**Рекомендации**
+
+__Онлайн – курсы:__
 
 [https://rubygarage.com.ua/](https://rubygarage.com.ua/)
 
 Ruby Advanced: https://academiait.ru/course/ruby-advanced/
 
-Литература:
+__Литература:__
 
     Изучаем Ruby, Фитцджеральд М.
     Путь Ruby, Хэл Фултон, Андре Арко
