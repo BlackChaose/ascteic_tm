@@ -97,8 +97,9 @@ Ruby
 Рекомендации
 Онлайн – курсы:
 
-    https://rubygarage.com.ua/
-    Ruby Advanced: https://academiait.ru/course/ruby-advanced/
+[https://rubygarage.com.ua/](https://rubygarage.com.ua/)
+
+Ruby Advanced: https://academiait.ru/course/ruby-advanced/
 
 Литература:
 
