@@ -107,5 +107,180 @@ __Литература:__
     Изучаем Ruby, Фитцджеральд М.
     Путь Ruby, Хэл Фултон, Андре Арко
 
+PHP
+
+Рекомендации:
+Онлайн-курсы:
+
+    Веб-разработка. Быстрый старт: https://geekbrains.ru/courses/108
+    Как правильно писать программы на php7: https://itvdn.com/ru/webinars/description/php7
+
+Литература:
+
+    PHP 7. Дмитрий Котеров
+
+
+JavaScript
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Javascript: основные функции - https://www.coursera.org/learn/javascript-osnovy-i-funktsii
+    Разработка интерфейсов: https://www.coursera.org/specializations/razrabotka-interfeysov
+    Javascript: прототипы - https://www.coursera.org/learn/javascript-prototipy
+
+Литература:
+
+    JavaScript: Сильные стороны. Д. Крокфорд
+
+
+HTML CSS
+
+
+Рекомендации:
+Онлайн-курсы
+
+    Основы HTML и CSS: https://www.coursera.org/learn/snovy-html-i-css
+    Тонкости верстки: https://www.coursera.org/learn/tonkosti-verstki
+    Разработка интерфейсов: https://www.coursera.org/specializations/razrabotka-interfeysov
+
+jQuery
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Курс по jQuery. Основы: https://coursehunters.net/course/kurs-po-jquery-osnovy
+    Специализация: Разработка интерфейсов: вёрстка и JavaScript https://codebra.ru/ru/lessons-additionally/jquery/1/1 
+
+Литература:
+
+    JavaScript и jQuery. Исчерпывающее руководство. Дэвид Макфарланд
+
+
+React
+
+
+Рекомендуемое обучение
+Онлайн-курс:
+
+    Reactjs: Начало. https://ru.hexlet.io/courses/reactjs
+
+Литература:
+
+    Основы React. М Пацианский, 2018
+
+Python
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Python: основы и применение https://stepik.org/course/4143/syllabus
+    Программирование на Python https://stepik.org/course/67/syllabus
+
+Литература:
+
+    «Простой Python. Современный стиль программирования» - Билл Любанович
+
+
+SQL
+
+
+Рекомендуемое обучение
+Рекомендации:
+Онлайн-курсы:
+
+    Базы данных. SQL: http://codrob.ru/course/4
+    Обучение SQL: https://academiait.ru/course/obuchenie-sql/
+    Изучение программирования. SQL: https://tproger.ru/video/sql-introduction/
+
+C++
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Основы разработки на C++: белый пояс. https://www.coursera.org/learn/c-plus-plus-white?specialization=c-plus-plus-modern-development
+    Основы разработки на C++: жёлтый пояс: https://www.coursera.org/learn/c-plus-plus-yellow?specialization=c-plus-plus-modern-development
+    Введение в программирование (C++): https://stepik.org/course/363/
+
+
+Java
+
+
+Рекомендации:
+Онлайн-курс:
+
+    Java. Быстрый старт: https://geekbrains.ru/courses/109
+
+Литература:
+
+    Философия Java. Брюс Эккель
+    Java 8. Полное руководство. Герберт Шилдт
+    Java. Эффективное программирование. Блох Джошуа
+
+Паттерны проектирования и основные подходы к проектированию систем
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    ООП и паттерны проектирования в Python: https://ru.coursera.org/learn/oop-patterns-python
+    Паттерны проектирования: https://refactoring.guru/ru/design-patterns
+
+Литература:
+
+    Архитектура корпоративных программных приложений, Мартин Фаулер.
+
+
+Основы программирования типы и структуры данных
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Программирование на С++ https://stepik.org/course/363//
+    Harvard CS50 https://javarush.ru/quests/QUEST_HARVARD_CS50 
+
+
+Теория алгоритмов
+
+
+Рекомендации:
+Онлайн-курсы:
+
+    Видеолекции курса «Алгоритмы и структуры данных»: https://yandexdataschool.ru/edu-process/courses/algorithms
+    MAXimal, algo: http://e-maxx.ru/algo/
+    Алгоритмы и структуры данных: https://stepik.org/course/63/promo
+
+Литература:
+
+    e-maxx :: algo. Максим Иванов
+
+Теория машинного обучения:
+
+
+Онлайн-курсы:
+
+    Введение в машинное обучение https://ru.coursera.org/learn/vvedenie-mashinnoe-obuchenie
+    Машинное обучение и анализ данных https://ru.coursera.org/specializations/machine-learning-data-analysis
+
+Материалы:
+
+    http://www.machinelearning.ru
+
+
+Теория облачных технологий
+
+
+Литература:
+
+    Батура, Т.В. Облачные технологии: основные понятия, задачи и тенденции развития 
+
+Онлайн-курс:
+
+    Курсы от microsoft: https://mva.microsoft.com/search/SearchResults.aspx#!lang=1033
 
 
