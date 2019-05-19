@@ -89,3 +89,21 @@ https://www.coursera.org/specializations/razrabotka-interfeysov
 
 https://www.coursera.org/learn/snovy-html-i-css
 
+
+### links from цифровойпрорыв.рф
+
+Ruby
+
+Рекомендации
+Онлайн – курсы:
+
+    https://rubygarage.com.ua/
+    Ruby Advanced: https://academiait.ru/course/ruby-advanced/
+
+Литература:
+
+    Изучаем Ruby, Фитцджеральд М.
+    Путь Ruby, Хэл Фултон, Андре Арко
+
+
+
