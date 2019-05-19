@@ -284,3 +284,168 @@ Java
     Курсы от microsoft: https://mva.microsoft.com/search/SearchResults.aspx#!lang=1033
 
 
+Блокчейн
+
+
+Онлайн-курс:
+
+    Введение в технологию блокчейн https://www.coursera.org/learn/introduction-to-blockchain
+
+Литература
+
+    «Блокчейн для бизнеса», Уильям Могайар и Виталик Бутерин
+
+
+Теория защиты информации
+
+
+Онлайн-курсы:
+
+    Защита информации: https://openedu.ru/course/hse/datpro/
+    Методы и средства защиты информации: https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii
+
+Криптография
+
+Рекомендации:
+Онлайн-курс:
+
+    Методы и средства защиты информации https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii
+
+Литература:
+
+    «Прикладная криптография», Шнайер
+    
+    
+Django
+
+
+Рекомендации:
+Сайты:
+
+    Руководство Django Girls: https://tutorial.djangogirls.org/ru/ 
+
+Видеокурс:
+
+    Видеокурс по Django: https://proglib.io/p/learn-django/ 
+
+Онлайн-курс:
+
+    Часть курса “Программирвоание на Python” https://www.coursera.org/learn/python-for-web 
+
+Мобильная разработка Android
+
+
+Онлайн-курсы:
+
+    Разработка Android приложений для мобильных устройств: https://online.edu.ru/ru/courses/item/?id=1648
+    Разработка мобильных приложений для Android: https://online.edu.ru/ru/courses/item/?id=1016
+
+Разработка UX/UI
+
+Онлайн-курсы:
+
+    Проектирование интерфейсов: UI-UX дизайн от стратегии до тестирования: https://online.edu.ru/ru/courses/item/?id=1374
+    UX-аналитика: исследования пользователей и здравый смысл: https://online.edu.ru/ru/courses/item/?id=1381
+
+Проектирование  и дизайн пользовательских интерфейсов
+
+
+Онлайн-курсы:
+
+    Веб-дизайнер: эффективный сайт от идеи до реализации: https://online.edu.ru/ru/courses/item/?id=1384
+    Adobe Photoshop: основы для веб-дизайнера: https://online.edu.ru/ru/courses/item/?id=1392
+
+Инфографика
+
+
+Онлайн-курсы:
+
+    Инфографика: искусство презентации данных: https://online.edu.ru/ru/courses/item/?id=1399
+    «Визуализация. Основы»: https://brainwashing.pro/dataviz-online
+
+
+Photoshop
+
+
+Материалы:
+
+    https://photoshop-master.ru/
+
+Онлайн-курсы:
+
+    Иллюстратор. Старт: https://brush.guru/start
+    Пошаговое обучение фотошопу: https://koskomp.ru/s-chego-nachat/poshagovoe-obuchenie-fotoshopu/
+
+Figma
+
+
+Онлайн-курс:
+
+    Бесплатный курс «Figma: основы для дизайнера интерфейсов»: https://netology.ru/programs/figma
+
+Материал:
+
+    https://awdee.ru/figma/
+
+
+методы моделирования бизнес процессов
+
+
+Онлайн-курсы:
+
+    Системное управление бизнес-процессами: https://online.edu.ru/ru/courses/item/?id=1268
+    Управление бизнес-процессами: https://online.edu.ru/ru/courses/item/?id=1585
+
+Product-management
+
+
+Онлайн-курсы:
+
+    Создание продукта: аналитика, разработка, продвижение: https://online.edu.ru/ru/courses/item/?id=1373
+    Интернет-предпринимательство: https://ru.coursera.org/learn/internet-predprinimatelstvo
+
+Project-management
+
+
+Онлайн-курсы:
+
+    Основы проектного менеджмента: https://online.edu.ru/ru/courses/item/?id=1725
+    Введение в проектную деятельность: https://online.edu.ru/ru/courses/item/?id=1291
+
+
+Гибкие методологии
+
+
+Онлайн-курсы:
+
+    Agile и Scrum в работе над проектами и продуктами: https://www.coursera.org/learn/upravleniya-proektami-agile-scrum
+    Гибкие методологии разработки: Scrum, Kanban, внедрение изменений: https://online.edu.ru/ru/courses/item/?id=1397
+
+Финансовое планирование
+
+
+Онлайн-курсы:
+
+    Финансовая экономика: https://online.edu.ru/ru/courses/item/?id=101
+    Основы финансового менеджмента: https://online.edu.ru/ru/courses/item/?id=1263
+
+Бренд-стратегия
+
+
+Онлайн-курсы:
+
+    Брендинг: от стратегии до брендбука: https://online.edu.ru/ru/courses/item/?id=1379
+    Брендинг в инновациях – новая коммуникационная реальность: https://online.edu.ru/ru/courses/item/?id=1583
+
+
+Контекстная реклама
+
+
+Онлайн-курсы:
+
+    Контекстная реклама https://online.edu.ru/ru/courses/item/?id=1641
+    Таргетированная реклама: привлечение трафика из социальных медиа https://online.edu.ru/ru/courses/item/?id=1401
+
+
+
+
