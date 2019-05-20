@@ -124,7 +124,7 @@ PHP 7. Дмитрий Котеров
 #### JavaScript
 
 
-Рекомендации:
+__Рекомендации:__
 Онлайн-курсы:
 
 Javascript: основные функции - https://www.coursera.org/learn/javascript-osnovy-i-funktsii
