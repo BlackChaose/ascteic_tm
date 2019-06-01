@@ -89,6 +89,8 @@ https://www.coursera.org/specializations/razrabotka-interfeysov
 
 https://www.coursera.org/learn/snovy-html-i-css
 
+https://www.geeksforgeeks.org/
+
 
 ### links from цифровойпрорыв.рф
 
