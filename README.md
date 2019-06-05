@@ -21,7 +21,7 @@ http://www.cplusplus.com
 
 https://nodejs.org/api/
 
-
+https://www.haskell.org/platform/linux.html#linux-ubuntu
 
 
 
@@ -51,6 +51,7 @@ https://webdriver.io/docs/gettingstarted.html
 http://www.allitebooks.org/
 
 https://github.com/EbookFoundation/free-programming-books
+
 
 
 
