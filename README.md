@@ -96,6 +96,8 @@ https://www.coursera.org/learn/snovy-html-i-css
 
 https://www.geeksforgeeks.org/
 
+https://loftschool.com/
+
 
 ### links from цифровойпрорыв.рф
 
