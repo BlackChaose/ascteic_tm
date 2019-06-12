@@ -98,6 +98,8 @@ https://www.geeksforgeeks.org/
 
 https://loftschool.com/
 
+https://tutorial.djangogirls.org/
+
 
 ### links from цифровойпрорыв.рф
 
