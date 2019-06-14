@@ -5,6 +5,7 @@
 
 https://github.com/Hexlet/ru-test-assignments
 
+
 ### **Handbooks & manuals:**
 
 https://developer.mozilla.org
@@ -24,6 +25,7 @@ https://nodejs.org/api/
 https://www.haskell.org/platform/linux.html#linux-ubuntu
 
 http://docs.sublimetext.info/en/latest/
+
 
 ### **Libs:**
 
@@ -99,6 +101,10 @@ https://www.geeksforgeeks.org/
 https://loftschool.com/
 
 https://tutorial.djangogirls.org/
+
+### Notes
+
+https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programmistu
 
 
 ### links from цифровойпрорыв.рф
