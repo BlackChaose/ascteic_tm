@@ -23,7 +23,7 @@ https://nodejs.org/api/
 
 https://www.haskell.org/platform/linux.html#linux-ubuntu
 
-
+http://docs.sublimetext.info/en/latest/
 
 ### **Libs:**
 
