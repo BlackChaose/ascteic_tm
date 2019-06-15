@@ -106,6 +106,7 @@ https://tutorial.djangogirls.org/
 
 https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programmistu
 
+https://github.com/bol-van/zapret
 
 ### links from цифровойпрорыв.рф
 
