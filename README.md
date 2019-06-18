@@ -108,6 +108,9 @@ https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programm
 
 https://github.com/bol-van/zapret
 
+https://laravel.ru/posts/1120
+
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
