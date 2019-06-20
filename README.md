@@ -114,6 +114,8 @@ https://codebeautify.org/jsonviewer
 
 https://canvasjs.com/php-charts/chart-index-data-label/
 
+http://recharts.org/en-US/guide/getting-started
+
 
 
 ### links from цифровойпрорыв.рф
