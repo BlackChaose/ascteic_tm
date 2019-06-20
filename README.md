@@ -112,6 +112,10 @@ https://laravel.ru/posts/1120
 
 https://codebeautify.org/jsonviewer
 
+https://canvasjs.com/php-charts/chart-index-data-label/
+
+
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
