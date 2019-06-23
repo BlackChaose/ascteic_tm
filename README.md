@@ -120,6 +120,22 @@ https://stackoverflow.com/questions/27221438/cron-every-day-at-6-pm
 
 https://linuxconfig.org/keep-your-home-safe-with-cron-backups
 
+### to see
+
+https://www.haskell.org/documentation/ 
+
+https://www.codewars.com/kata/who-likes-it/javascript 
+
+https://neil.fraser.name/writing/diff/myers.pdf 
+
+https://phpunit.de/getting-started/phpunit-8.html 
+
+https://symfony.com/download 
+
+https://reactjs.org/docs/handling-events.html
+
+
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
