@@ -134,7 +134,9 @@ https://symfony.com/download
 
 https://reactjs.org/docs/handling-events.html
 
+https://ru.hexlet.io/courses/js-setup-environment/lessons/babel/theory_unit
 
+https://ru.hexlet.io/blog/posts/modern-js-explained
 
 ### links from цифровойпрорыв.рф
 
