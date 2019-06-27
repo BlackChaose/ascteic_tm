@@ -142,6 +142,8 @@ https://laracasts.com/series/laravel-from-scratch-2018
 
 https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestamp-function.php
 
+https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
