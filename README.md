@@ -120,6 +120,10 @@ https://stackoverflow.com/questions/27221438/cron-every-day-at-6-pm
 
 https://linuxconfig.org/keep-your-home-safe-with-cron-backups
 
+https://webformyself.com/kak-sozdat-na-javascript-sredstvo-prosmotra-pdf/
+
+https://webmox.ru/delaem-pryamuyu-ssylku-na-skachivanie-pdf-sajta.html
+
 ### to see
 
 https://www.haskell.org/documentation/ 
@@ -143,6 +147,8 @@ https://laracasts.com/series/laravel-from-scratch-2018
 https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestamp-function.php
 
 https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
 
 ### links from цифровойпрорыв.рф
 
