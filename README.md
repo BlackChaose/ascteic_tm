@@ -152,6 +152,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_worke
 
 https://habr.com/ru/post/429214/
 
+https://github.com/barryvdh/laravel-debugbar
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
