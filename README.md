@@ -154,6 +154,8 @@ https://habr.com/ru/post/429214/
 
 https://github.com/barryvdh/laravel-debugbar
 
+https://github.com/hexlet-codebattle/codebattle
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
