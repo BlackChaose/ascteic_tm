@@ -160,6 +160,8 @@ https://github.com/hexlet-codebattle/codebattle/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1
 
 https://techno.2gis.ru/opensource
 
+https://laracasts.com/discuss/channels/laravel/how-to-load-huge-data-in-html-table-using-laravel-and-data-table
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
