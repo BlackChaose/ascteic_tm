@@ -162,6 +162,8 @@ https://techno.2gis.ru/opensource
 
 https://laracasts.com/discuss/channels/laravel/how-to-load-huge-data-in-html-table-using-laravel-and-data-table
 
+https://stackoverflow.com/questions/56456595/laravel-5-8-a-facade-root-has-not-been-set-after-homestead-restart
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
