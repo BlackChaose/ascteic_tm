@@ -164,6 +164,8 @@ https://laracasts.com/discuss/channels/laravel/how-to-load-huge-data-in-html-tab
 
 https://stackoverflow.com/questions/56456595/laravel-5-8-a-facade-root-has-not-been-set-after-homestead-restart
 
+https://laravel.ru/docs/v5
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
