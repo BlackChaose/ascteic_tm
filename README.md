@@ -166,6 +166,8 @@ https://stackoverflow.com/questions/56456595/laravel-5-8-a-facade-root-has-not-b
 
 https://laravel.ru/docs/v5
 
+https://webformyself.com/optimizaciya-sql-zaprosov-dlya-uskoreniya-sajtov/
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
