@@ -170,6 +170,8 @@ https://webformyself.com/optimizaciya-sql-zaprosov-dlya-uskoreniya-sajtov/
 
 https://webdevetc.com/blog/laravel-features-you-may-not-know-about
 
+https://symfony.com/doc/current/profiler.html
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
