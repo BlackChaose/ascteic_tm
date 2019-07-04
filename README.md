@@ -124,6 +124,8 @@ https://webformyself.com/kak-sozdat-na-javascript-sredstvo-prosmotra-pdf/
 
 https://webmox.ru/delaem-pryamuyu-ssylku-na-skachivanie-pdf-sajta.html
 
+https://www.learnenough.com/command-line-tutorial/basics
+
 ### to see
 
 https://www.haskell.org/documentation/ 
