@@ -168,6 +168,8 @@ https://laravel.ru/docs/v5
 
 https://webformyself.com/optimizaciya-sql-zaprosov-dlya-uskoreniya-sajtov/
 
+https://webdevetc.com/blog/laravel-features-you-may-not-know-about
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
