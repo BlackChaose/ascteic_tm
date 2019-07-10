@@ -176,6 +176,9 @@ https://tech.rgou.net/php/converting-documents-odt-doc-to-pdf-on-php-with-unocon
 
 http://blog.nagaychenko.com/2010/11/15/рекурсивный-обход-директории-iterator/
 
+https://tech.rgou.net/jobs/como-cobrar-como-desenvolvedor-freelancer/
+
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
