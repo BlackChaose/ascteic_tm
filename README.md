@@ -174,6 +174,7 @@ https://webdevetc.com/blog/laravel-features-you-may-not-know-about
 
 https://tech.rgou.net/php/converting-documents-odt-doc-to-pdf-on-php-with-unoconv-libreoffice/
 
+http://blog.nagaychenko.com/2010/11/15/рекурсивный-обход-директории-iterator/
 
 ### links from цифровойпрорыв.рф
 
