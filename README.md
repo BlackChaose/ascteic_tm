@@ -26,6 +26,9 @@ https://www.haskell.org/platform/linux.html#linux-ubuntu
 
 http://docs.sublimetext.info/en/latest/
 
+### IDE & TEXT EDITORS ###
+
+https://www.geany.org/documentation/manual/
 
 ### **Libs:**
 
