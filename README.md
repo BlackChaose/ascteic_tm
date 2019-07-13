@@ -179,6 +179,7 @@ http://blog.nagaychenko.com/2010/11/15/рекурсивный-обход-дир�
 
 https://tech.rgou.net/jobs/como-cobrar-como-desenvolvedor-freelancer/
 
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
 ### links from цифровойпрорыв.рф
 
