@@ -30,6 +30,13 @@ http://docs.sublimetext.info/en/latest/
 
 https://www.geany.org/documentation/manual/
 
+### Utility ###
+
+http://paletton.com
+
+https://pingdom.com
+
+
 ### **Libs:**
 
 https://lodash.com
