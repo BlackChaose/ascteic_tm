@@ -188,6 +188,17 @@ https://tech.rgou.net/jobs/como-cobrar-como-desenvolvedor-freelancer/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
+### temporary links for reading in free time ###
+
+https://www.pluralsight.com/blog/software-development/best-developer-certifications
+
+https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/
+
+https://blog.teamweek.com/2018/10/the-11-best-project-management-certifications-2019/
+
+https://www.businessnewsdaily.com/10733-programming-certifications.html
+
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
