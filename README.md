@@ -47,6 +47,8 @@ https://github.com/danielstjules/Stringy
 
 https://github.com/tightenco/collect
 
+https://laravel.com/docs/5.8/collections
+
 
 ### tests
 
