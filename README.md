@@ -188,6 +188,12 @@ https://tech.rgou.net/jobs/como-cobrar-como-desenvolvedor-freelancer/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
+https://horizon.laravel.com
+
+https://lumen.laravel.com
+
+https://http://stylus-lang.com/#css-needs-a-hero
+
 ### temporary links for reading in free time ###
 
 https://www.pluralsight.com/blog/software-development/best-developer-certifications
@@ -200,9 +206,6 @@ https://www.businessnewsdaily.com/10733-programming-certifications.html
 
 https://www.businessnewsdaily.com/10757-best-web-certifications.html
 
-https://http://stylus-lang.com/#css-needs-a-hero
-
-https://lumen.laravel.com
 
 ### links from цифровойпрорыв.рф
 
