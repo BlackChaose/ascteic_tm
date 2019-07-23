@@ -138,6 +138,9 @@ https://webmox.ru/delaem-pryamuyu-ssylku-na-skachivanie-pdf-sajta.html
 
 https://www.learnenough.com/command-line-tutorial/basics
 
+http://www.faqs.org/rfcs/rfc2617.html
+
+
 ### to see
 
 https://www.haskell.org/documentation/ 
