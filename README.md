@@ -38,6 +38,7 @@ http://paletton.com
 
 https://pingdom.com
 
+https://figma.com
 
 ### **Libs:**
 
@@ -51,6 +52,7 @@ https://github.com/tightenco/collect
 
 https://laravel.com/docs/5.8/collections
 
+https://github.com/geelen/x-gif
 
 ### tests
 
