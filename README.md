@@ -203,6 +203,8 @@ https://http://stylus-lang.com/#css-needs-a-hero
 
 https://curl.haxx.se/docs/httpscripting.html
 
+https://cloud.elastic.co/deployments
+
 ### temporary links for reading in free time ###
 
 https://www.pluralsight.com/blog/software-development/best-developer-certifications
