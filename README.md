@@ -150,6 +150,10 @@ https://habr.com/en/post/451652/
 
 https://habr.com/en/post/451652/
 
+https://www.npmjs.com/package/qrcode.vue
+
+https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html
+
 ### to see
 
 https://www.haskell.org/documentation/ 
