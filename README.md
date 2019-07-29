@@ -230,6 +230,8 @@ https://www.elastic.co/what-is/elasticsearch
 
 http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
+https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard
+
 ### links from цифровойпрорыв.рф
 
 #### Ruby
