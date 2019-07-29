@@ -87,6 +87,8 @@ https://github.com/EbookFoundation/free-programming-books
 
 ### **Online courses:**
 
+https://refactoring.guru/ru/design-patterns
+
 
 https://hexlet.io
 
