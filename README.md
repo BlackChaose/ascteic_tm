@@ -120,7 +120,7 @@ https://loftschool.com/
 
 https://tutorial.djangogirls.org/
 
-### Notes
+### Notes ###
 
 https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programmistu
 
@@ -156,7 +156,7 @@ https://www.npmjs.com/package/qrcode.vue
 
 https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html
 
-### to see
+### to see ###
 
 https://www.haskell.org/documentation/ 
 
@@ -216,6 +216,10 @@ https://curl.haxx.se/docs/httpscripting.html
 
 https://cloud.elastic.co/deployments
 
+#### AI ML ####
+
+https://habr.com/en/company/datoml/blog/328468/
+
 ### temporary links for reading in free time ###
 
 https://www.pluralsight.com/blog/software-development/best-developer-certifications
@@ -239,6 +243,7 @@ https://startup.skolkovo.ru/event/ssa/pitch-0531/
 http://school.skolkovo.ru/ru/
 https://adventureland.events.sk.ru/#event_widgets_About-show
 https://rb.ru/howto/pitch/
+
 
 
 ### links from цифровойпрорыв.рф
