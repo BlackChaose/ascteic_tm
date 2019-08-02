@@ -60,7 +60,8 @@ https://echarts.apache.org/examples/en/index.html
 
 https://www.chartjs.org/docs/latest/
 
-
+### Работа с текстом ###
+https://www.tinybutstrong.com/opentbs.php?doc
 
 ### tests
 
