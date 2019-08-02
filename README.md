@@ -54,6 +54,14 @@ https://laravel.com/docs/5.8/collections
 
 https://github.com/geelen/x-gif
 
+### Чарты ###
+
+https://echarts.apache.org/examples/en/index.html
+
+https://www.chartjs.org/docs/latest/
+
+
+
 ### tests
 
 https://www.chaijs.com/
@@ -215,6 +223,8 @@ https://http://stylus-lang.com/#css-needs-a-hero
 https://curl.haxx.se/docs/httpscripting.html
 
 https://cloud.elastic.co/deployments
+
+
 
 #### AI ML ####
 
