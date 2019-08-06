@@ -60,6 +60,10 @@ https://echarts.apache.org/examples/en/index.html
 
 https://www.chartjs.org/docs/latest/
 
+### LiveSearch ###
+
+https://autocomplete.trevoreyre.com/#/vue-component
+
 ### Работа с текстом ###
 https://www.tinybutstrong.com/opentbs.php?doc
 
