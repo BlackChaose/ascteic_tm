@@ -64,6 +64,10 @@ https://www.chartjs.org/docs/latest/
 
 https://autocomplete.trevoreyre.com/#/vue-component
 
+### Selects ###
+
+https://select2.org
+
 ### Работа с текстом ###
 https://www.tinybutstrong.com/opentbs.php?doc
 
