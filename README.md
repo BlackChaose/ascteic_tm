@@ -245,6 +245,8 @@ https://www.sourcecodester.com/tutorials/php/11876/live-search-using-vuejs-php.h
 
 https://pusher.com
 
+https://refactoring.guru/ru/design-patterns/history
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
