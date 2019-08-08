@@ -68,6 +68,8 @@ https://autocomplete.trevoreyre.com/#/vue-component
 
 https://select2.org
 
+https://vuetifyjs.com/en/
+
 ### Работа с текстом ###
 https://www.tinybutstrong.com/opentbs.php?doc
 
