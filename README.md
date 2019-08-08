@@ -173,6 +173,9 @@ https://www.npmjs.com/package/qrcode.vue
 
 https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html
 
+https://www.linuxbabe.com/ubuntu/install-nvidia-driver-ubuntu-18-04
+
+
 ### to see ###
 
 https://www.haskell.org/documentation/ 
