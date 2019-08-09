@@ -179,6 +179,7 @@ https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html
 
 https://www.linuxbabe.com/ubuntu/install-nvidia-driver-ubuntu-18-04
 
+https://frankfzw.wordpress.com/2014/12/23/migrate-ubuntu-14-04-from-hdd-to-ssd/
 
 ### to see ###
 
