@@ -54,6 +54,8 @@ https://laravel.com/docs/5.8/collections
 
 https://github.com/geelen/x-gif
 
+https://ru.vuejs.org/v2/guide/index.html
+
 ### Чарты ###
 
 https://echarts.apache.org/examples/en/index.html
