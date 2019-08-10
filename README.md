@@ -141,6 +141,16 @@ https://loftschool.com/
 
 https://tutorial.djangogirls.org/
 
+https://www.internet-technologies.ru/articles/markup/css/
+
+https://stackoverflow.com/questions/tagged/css
+
+https://developer.mozilla.org/ru/docs/Web/CSS
+
+https://webref.ru/layout/learn-html-css
+
+
+
 ### Notes ###
 
 https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programmistu
