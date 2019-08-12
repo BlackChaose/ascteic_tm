@@ -191,6 +191,8 @@ https://www.linuxbabe.com/ubuntu/install-nvidia-driver-ubuntu-18-04
 
 https://frankfzw.wordpress.com/2014/12/23/migrate-ubuntu-14-04-from-hdd-to-ssd/
 
+https://www.rosehosting.com/blog/how-to-install-php-7-3-on-ubuntu-16-04/
+
 ### to see ###
 
 https://www.haskell.org/documentation/ 
