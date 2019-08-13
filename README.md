@@ -62,6 +62,10 @@ https://echarts.apache.org/examples/en/index.html
 
 https://www.chartjs.org/docs/latest/
 
+#### not free ####
+
+https://www.highcharts.com
+
 ### LiveSearch ###
 
 https://autocomplete.trevoreyre.com/#/vue-component
