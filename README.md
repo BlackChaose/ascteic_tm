@@ -28,6 +28,8 @@ http://docs.sublimetext.info/en/latest/
 
 https://vuejs.org/v2/guide/
 
+http://hyperpolyglot.org
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
