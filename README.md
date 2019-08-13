@@ -201,6 +201,8 @@ https://ru.vuejs.org/v2/cookbook/index.html
 
 https://habr.com/en/post/235901/
 
+http://najomi.org
+
 ### to see ###
 
 https://www.haskell.org/documentation/ 
