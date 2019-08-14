@@ -30,6 +30,8 @@ https://vuejs.org/v2/guide/
 
 http://hyperpolyglot.org
 
+https://yaml.org/spec/1.2/spec.html
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
