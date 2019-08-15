@@ -40,6 +40,7 @@ https://github.com/pyenv/pyenv
 
 https://docs.pipenv.org/en/latest/
 
+https://poetry.eustace.io/
 
 
 ### IDE & TEXT EDITORS ###
