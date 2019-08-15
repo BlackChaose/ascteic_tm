@@ -36,6 +36,10 @@ https://pip.pypa.io/en/stable/
 
 https://docs.python.org/3/reference/import.html#import-related-module-attributes
 
+https://github.com/pyenv/pyenv
+
+https://docs.pipenv.org/en/latest/
+
 
 
 ### IDE & TEXT EDITORS ###
