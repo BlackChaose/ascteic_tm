@@ -34,6 +34,10 @@ https://yaml.org/spec/1.2/spec.html
 
 https://pip.pypa.io/en/stable/
 
+https://docs.python.org/3/reference/import.html#import-related-module-attributes
+
+
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
