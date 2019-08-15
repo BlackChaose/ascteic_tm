@@ -44,6 +44,7 @@ https://poetry.eustace.io/
 
 https://ipython.readthedocs.io/en/stable/index.html
 
+https://learngitbranching.js.org/
 
 ### IDE & TEXT EDITORS ###
 
