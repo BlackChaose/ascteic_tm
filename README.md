@@ -121,6 +121,8 @@ https://git-scm.com/book/ru/v2
 
 ### **Online courses:**
 
+https://github.com/Hexlet/ru-test-assignments
+
 https://refactoring.guru/ru/design-patterns
 
 
