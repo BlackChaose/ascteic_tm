@@ -42,6 +42,8 @@ https://docs.pipenv.org/en/latest/
 
 https://poetry.eustace.io/
 
+https://ipython.readthedocs.io/en/stable/index.html
+
 
 ### IDE & TEXT EDITORS ###
 
