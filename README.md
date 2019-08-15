@@ -32,6 +32,8 @@ http://hyperpolyglot.org
 
 https://yaml.org/spec/1.2/spec.html
 
+https://pip.pypa.io/en/stable/
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
