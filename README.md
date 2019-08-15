@@ -115,6 +115,9 @@ https://github.com/EbookFoundation/free-programming-books
 
 [Steven S S. Skiena: "The Algorithm Design Manual"](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_1?qid=1557613071&refinements=p_27%3ASteven+S+S.+Skiena&s=books&sr=1-1&text=Steven+S+S.+Skiena)
 
+### ** GIT ** ###
+
+https://git-scm.com/book/ru/v2
 
 ### **Online courses:**
 
