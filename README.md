@@ -230,6 +230,8 @@ https://habr.com/en/post/235901/
 
 http://najomi.org
 
+http://www.dejurka.ru/css/javascript_snippets/
+
 ### to see ###
 
 https://www.haskell.org/documentation/ 
