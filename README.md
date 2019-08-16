@@ -306,6 +306,8 @@ https://pusher.com
 
 https://refactoring.guru/ru/design-patterns/history
 
+http://www.dejurka.ru
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
