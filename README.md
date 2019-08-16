@@ -50,6 +50,8 @@ https://learngitbranching.js.org/
 
 https://www.geany.org/documentation/manual/
 
+https://www.jetbrains.com/help/phpstorm/sharing-your-ide-settings.html#IDE_settings_sync
+
 ### Utility ###
 
 http://paletton.com
