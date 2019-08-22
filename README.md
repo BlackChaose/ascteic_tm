@@ -62,6 +62,11 @@ https://figma.com
 
 https://www.nirsoft.net/utils/mailpv.html
 
+https://www.openshot.org
+
+https://www.blender.org
+
+
 ### **Libs:**
 
 https://lodash.com
