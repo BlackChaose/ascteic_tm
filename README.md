@@ -238,6 +238,8 @@ http://najomi.org
 
 http://www.dejurka.ru/css/javascript_snippets/
 
+https://fontawesome.com/v4.7.0/icon/envelope-o
+
 ### to see ###
 
 https://www.haskell.org/documentation/ 
