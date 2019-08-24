@@ -314,6 +314,12 @@ https://refactoring.guru/ru/design-patterns/history
 
 http://www.dejurka.ru
 
+https://m.habr.com/ru/company/mailru/blog/266811/
+
+https://m.habr.com/ru/company/first/blog/348686/
+
+https://habr.com/en/company/first/blog/349256/
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
