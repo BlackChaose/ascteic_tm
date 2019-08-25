@@ -66,6 +66,7 @@ https://www.openshot.org
 
 https://www.blender.org
 
+https://mitmproxy.org/
 
 ### **Libs:**
 
