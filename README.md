@@ -68,6 +68,8 @@ https://www.blender.org
 
 https://mitmproxy.org/
 
+https://www.tinybutstrong.com
+
 ### **Libs:**
 
 https://lodash.com
