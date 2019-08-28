@@ -327,6 +327,8 @@ https://m.habr.com/ru/company/first/blog/348686/
 
 https://habr.com/en/company/first/blog/349256/
 
+https://honorcup.ru
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
