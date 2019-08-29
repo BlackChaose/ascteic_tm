@@ -70,6 +70,10 @@ https://mitmproxy.org/
 
 https://www.tinybutstrong.com
 
+https://github.com/Skrol29/opentbs
+
+https://packagist.org/packages/tinybutstrong/opentbs?q=&p=6
+
 ### **Libs:**
 
 https://lodash.com
