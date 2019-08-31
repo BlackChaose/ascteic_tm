@@ -301,8 +301,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_sha
 
 https://horizon.laravel.com
 
-https://lumen.laravel.com
-
 https://http://stylus-lang.com/#css-needs-a-hero
 
 https://curl.haxx.se/docs/httpscripting.html
