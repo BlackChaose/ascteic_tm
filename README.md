@@ -357,9 +357,10 @@ http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard
 
 
-https://startup.skolkovo.ru/event/ssa/pitch-0531/
 http://school.skolkovo.ru/ru/
+
 https://adventureland.events.sk.ru/#event_widgets_About-show
+
 https://rb.ru/howto/pitch/
 
 
