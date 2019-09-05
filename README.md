@@ -334,6 +334,8 @@ https://habr.com/en/company/first/blog/349256/
 
 https://honorcup.ru
 
+http://schlueters.de/blog/
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
