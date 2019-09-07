@@ -367,7 +367,11 @@ https://adventureland.events.sk.ru/#event_widgets_About-show
 
 https://rb.ru/howto/pitch/
 
+https://habr.com/en/company/first/blog/349256/
 
+https://m.habr.com/ru/company/first/blog/348686/
+
+https://m.habr.com/ru/company/mailru/blog/266811/
 
 ### links from цифровойпрорыв.рф
 
