@@ -22,9 +22,7 @@ http://www.cplusplus.com
 
 https://nodejs.org/api/
 
-https://www.haskell.org/platform/linux.html#linux-ubuntu
-
-http://docs.sublimetext.info/en/latest/
+https://www.haskell.org/
 
 https://vuejs.org/v2/guide/
 
