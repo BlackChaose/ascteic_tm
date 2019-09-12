@@ -214,10 +214,6 @@ https://stackoverflow.com/questions/27221438/cron-every-day-at-6-pm
 
 https://linuxconfig.org/keep-your-home-safe-with-cron-backups
 
-https://webformyself.com/kak-sozdat-na-javascript-sredstvo-prosmotra-pdf/
-
-https://webmox.ru/delaem-pryamuyu-ssylku-na-skachivanie-pdf-sajta.html
-
 https://www.learnenough.com/command-line-tutorial/basics
 
 http://www.faqs.org/rfcs/rfc2617.html
