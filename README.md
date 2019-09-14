@@ -314,8 +314,6 @@ https://www.awwwards.com/websites/vue-js/
 
 https://www.sourcecodester.com/tutorials/php/11876/live-search-using-vuejs-php.html
 
-https://pusher.com
-
 https://refactoring.guru/ru/design-patterns/history
 
 http://www.dejurka.ru
@@ -325,8 +323,6 @@ https://m.habr.com/ru/company/mailru/blog/266811/
 https://m.habr.com/ru/company/first/blog/348686/
 
 https://habr.com/en/company/first/blog/349256/
-
-https://honorcup.ru
 
 http://schlueters.de/blog/
 
