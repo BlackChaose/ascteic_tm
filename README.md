@@ -340,7 +340,7 @@ https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-pa
 
 https://blog.teamweek.com/2018/10/the-11-best-project-management-certifications-2019/
 
-https://www.businessnewsdaily.com/10733-programming-certifications.html
+ttps://www.businessnewsdaily.com/10733-programming-certifications.html
 
 https://www.businessnewsdaily.com/10757-best-web-certifications.html
 
@@ -349,9 +349,6 @@ https://www.elastic.co/what-is/elasticsearch
 http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
 https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard
-
-
-http://school.skolkovo.ru/ru/
 
 https://adventureland.events.sk.ru/#event_widgets_About-show
 
