@@ -222,8 +222,6 @@ https://habr.com/ru/post/451650/
 
 https://habr.com/en/post/451652/
 
-https://habr.com/en/post/451652/
-
 https://www.npmjs.com/package/qrcode.vue
 
 https://gruhn.github.io/vue-qrcode-reader/demos/DecodeAll.html
