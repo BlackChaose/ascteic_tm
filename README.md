@@ -265,8 +265,6 @@ https://laracasts.com/series/laravel-from-scratch-2018
 
 https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestamp-function.php
 
-https://github.com/mozilla/pdf.js/wiki/Frequently-Asked-Questions
-
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
 
 https://github.com/barryvdh/laravel-debugbar
