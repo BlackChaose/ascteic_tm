@@ -88,6 +88,8 @@ https://github.com/geelen/x-gif
 
 https://ru.vuejs.org/v2/guide/index.html
 
+https://vuetifyjs.com/en/getting-started/quick-start
+
 ### Чарты ###
 
 https://echarts.apache.org/examples/en/index.html
