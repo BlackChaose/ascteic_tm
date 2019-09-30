@@ -321,6 +321,9 @@ http://schlueters.de/blog/
 
 https://blog.selectel.com/auditing-system-events-linux/
 
+https://www.here.com
+
+
 #### AI ML ####
 
 https://habr.com/en/company/datoml/blog/328468/
