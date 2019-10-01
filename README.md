@@ -222,6 +222,7 @@ http://www.faqs.org/rfcs/rfc2617.html
 
 https://habr.com/ru/post/451650/
 
+http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html
 
 https://www.npmjs.com/package/qrcode.vue
 
