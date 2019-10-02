@@ -236,6 +236,7 @@ https://www.rosehosting.com/blog/how-to-install-php-7-3-on-ubuntu-16-04/
 
 https://ru.vuejs.org/v2/cookbook/index.html
 
+http://prgssr.ru/development/tehniki-raboty-s-dom-roditelskie-dochernie-i-sosednie-elementy.html
 
 http://najomi.org
 
