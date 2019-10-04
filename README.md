@@ -244,6 +244,19 @@ http://www.dejurka.ru/css/javascript_snippets/
 
 https://fontawesome.com/v4.7.0/icon/envelope-o
 
+##### open-source repo for novice ######
+
+https://up-for-grabs.net/#/
+
+http://issuehub.io/
+
+https://www.firsttimersonly.com/
+
+http://yourfirstpr.github.io/
+
+https://github.com/mungell/awesome-for-beginners#javascript
+
+
 
 ### to see ###
 
