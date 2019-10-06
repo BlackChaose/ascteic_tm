@@ -44,6 +44,8 @@ https://ipython.readthedocs.io/en/stable/index.html
 
 https://learngitbranching.js.org/
 
+https://habr.com/ru/post/133363/  [шпаргалка по NPM]
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
