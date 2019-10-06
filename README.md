@@ -46,6 +46,13 @@ https://learngitbranching.js.org/
 
 https://habr.com/ru/post/133363/  [шпаргалка по NPM]
 
+https://habr.com/ru/post/105495/  [основы линукс]
+
+https://www.sao.ru/hq/sts/linux/doc/lnag/3.html#run_program  [основы линукс др.]
+
+https://ru.hexlet.io/blog/posts/skripty-moduli-i-biblioteki  [скрипты модули и библиотеки]
+
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
