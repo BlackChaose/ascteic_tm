@@ -253,6 +253,8 @@ http://www.dejurka.ru/css/javascript_snippets/
 
 https://fontawesome.com/v4.7.0/icon/envelope-o
 
+https://beta.russianhackers.org
+
 ##### open-source repo for novice ######
 
 https://up-for-grabs.net/#/
