@@ -271,6 +271,7 @@ http://yourfirstpr.github.io/
 
 https://github.com/mungell/awesome-for-beginners#javascript
 
+https://www.tinybutstrong.com/manual.php#html_field_auto
 
 
 ### to see ###
