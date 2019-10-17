@@ -25,7 +25,7 @@ https://nodejs.org/api/
 https://www.haskell.org/
 
 https://vuejs.org/v2/guide/
-
+https://habr.com/en/post/204274/
 http://hyperpolyglot.org
 
 https://yaml.org/spec/1.2/spec.html
@@ -258,6 +258,8 @@ http://www.dejurka.ru/css/javascript_snippets/
 https://fontawesome.com/v4.7.0/icon/envelope-o
 
 https://beta.russianhackers.org
+
+https://habr.com/en/post/204274/
 
 ##### open-source repo for novice ######
 
