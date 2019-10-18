@@ -389,6 +389,7 @@ https://m.habr.com/ru/company/first/blog/348686/
 
 https://m.habr.com/ru/company/mailru/blog/266811/
 
+http://manpages.ubuntu.com/manpages/precise/man5/crontab.5.html
 
 ####-----------------------------
 
