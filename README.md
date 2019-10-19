@@ -52,6 +52,7 @@ https://www.sao.ru/hq/sts/linux/doc/lnag/3.html#run_program  [основы ли�
 
 https://ru.hexlet.io/blog/posts/skripty-moduli-i-biblioteki  [скрипты модули и библиотеки]
 
+https://www.sao.ru/hq/sts/linux/doc/lnag/3.html#run_program
 
 ### IDE & TEXT EDITORS ###
 
