@@ -84,6 +84,10 @@ https://packagist.org/packages/tinybutstrong/opentbs?q=&p=6
 
 https://crontab.guru
 
+https://travis-ci.org
+
+https://codeclimate.com
+
 ### **Libs:**
 
 https://lodash.com
