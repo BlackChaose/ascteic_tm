@@ -404,6 +404,8 @@ https://symfony.com/doc/current/components/dom_crawler.html#installation
 
 https://ru.hexlet.io/knowledge
 
+https://pear.php.net/package/PHP_CodeSniffer
+
 ####-----------------------------
 
 
