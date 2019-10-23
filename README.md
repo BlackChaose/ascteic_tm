@@ -402,6 +402,8 @@ https://habr.com/ru/post/99041/
 
 https://symfony.com/doc/current/components/dom_crawler.html#installation
 
+https://ru.hexlet.io/knowledge
+
 ####-----------------------------
 
 
