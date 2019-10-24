@@ -408,6 +408,8 @@ https://pear.php.net/package/PHP_CodeSniffer
 
 https://stackoverflow.com/questions/34034730/how-to-enable-color-for-php-cli
 
+https://poser.pugx.org/
+
 ####-----------------------------
 
 
