@@ -412,6 +412,8 @@ https://poser.pugx.org/
 
 https://asciinema.org/~0x4e494b
 
+https://eslint.org/docs/user-guide/configuring
+
 ####-----------------------------
 
 
