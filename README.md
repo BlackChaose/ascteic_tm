@@ -88,6 +88,8 @@ https://travis-ci.org
 
 https://codeclimate.com
 
+https://shields.io/
+
 ### **Libs:**
 
 https://lodash.com
