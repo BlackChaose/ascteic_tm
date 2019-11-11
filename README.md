@@ -108,6 +108,10 @@ https://ru.vuejs.org/v2/guide/index.html
 
 https://vuetifyjs.com/en/getting-started/quick-start
 
+https://vuejsexamples.com/
+
+https://vuejs.org/v2/examples/index.html
+
 https://coreui.io
 
 ### Чарты ###
