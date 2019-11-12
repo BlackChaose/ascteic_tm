@@ -274,6 +274,8 @@ https://beta.russianhackers.org
 
 https://habr.com/en/post/204274/
 
+https://webformyself.com/vue-vs-jquery-kak-zamenit-odno-na-drugoe/
+
 ##### open-source repo for novice ######
 
 https://up-for-grabs.net/#/
