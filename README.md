@@ -54,6 +54,12 @@ https://ru.hexlet.io/blog/posts/skripty-moduli-i-biblioteki  [скрипты м�
 
 https://www.sao.ru/hq/sts/linux/doc/lnag/3.html#run_program
 
+https://docs.locust.io/en/latest/installation.html
+
+https://proglib.io/p/otkrytye-linux-benchmarki-dlya-nagruzochnogo-testirovaniya-serverov-i-veb-prilozheniy-2019-11-01
+
+
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
@@ -279,6 +285,8 @@ https://beta.russianhackers.org
 https://habr.com/en/post/204274/
 
 https://webformyself.com/vue-vs-jquery-kak-zamenit-odno-na-drugoe/
+
+https://proglib.io/p/7-caytov-dlya-ottachivaniya-navyka-napisaniya-sql-zaprosov-na-2019-2020-g-2019-11-13
 
 ##### open-source repo for novice ######
 
