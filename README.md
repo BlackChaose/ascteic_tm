@@ -112,6 +112,8 @@ https://marketplace.digitalocean.com/
 
 https://www.digitalocean.com/community/tutorials
 
+https://colab.research.google.com/
+
 ### **Libs:**
 
 https://lodash.com
