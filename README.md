@@ -58,7 +58,15 @@ https://docs.locust.io/en/latest/installation.html
 
 https://proglib.io/p/otkrytye-linux-benchmarki-dlya-nagruzochnogo-testirovaniya-serverov-i-veb-prilozheniy-2019-11-01
 
+https://www.mediacollege.com/linux/command/linux-command.html
 
+https://docs.python.org/2/library/subprocess.html
+
+https://www.tutorialspoint.com/python/python_variable_types.htm
+
+https://docs.python.org/2/library/optparse.html
+
+https://pythex.org/
 
 ### IDE & TEXT EDITORS ###
 
