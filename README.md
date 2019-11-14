@@ -90,6 +90,10 @@ https://codeclimate.com
 
 https://shields.io/
 
+https://marketplace.digitalocean.com/
+
+https://www.digitalocean.com/community/tutorials
+
 ### **Libs:**
 
 https://lodash.com
