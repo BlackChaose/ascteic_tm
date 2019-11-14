@@ -74,6 +74,10 @@ https://www.geany.org/documentation/manual/
 
 https://www.jetbrains.com/help/phpstorm/sharing-your-ide-settings.html#IDE_settings_sync
 
+https://dbeaver.io/download/
+
+
+
 ### Utility ###
 
 http://paletton.com
