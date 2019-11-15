@@ -5,6 +5,7 @@
 
 https://github.com/Hexlet/ru-test-assignments
 
+https://ru.hexlet.io/blog/posts/traps-learning
 
 ### **Handbooks & manuals:**
 
