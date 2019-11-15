@@ -1,6 +1,12 @@
 # bookmarks_pages_cheatsheets
 ## my _bookmarks_, _pages_, _cheatsheets..._
 
+### ** How To make commits ** 
+
+https://habr.com/ru/post/183646/
+
+https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit
+
 ### **Pages:**
 
 https://github.com/Hexlet/ru-test-assignments
