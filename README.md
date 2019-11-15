@@ -7,6 +7,8 @@ https://habr.com/ru/post/183646/
 
 https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit
 
+https://ru.hexlet.io/blog/posts/naming-in-programming
+
 ### **Pages:**
 
 https://github.com/Hexlet/ru-test-assignments
