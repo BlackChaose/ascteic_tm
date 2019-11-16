@@ -9,6 +9,8 @@ https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/
 
 https://ru.hexlet.io/blog/posts/naming-in-programming
 
+https://danielkummer.github.io/git-flow-cheatsheet/
+
 ### **Pages:**
 
 https://github.com/Hexlet/ru-test-assignments
