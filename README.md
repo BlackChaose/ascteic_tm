@@ -139,8 +139,6 @@ https://github.com/tightenco/collect
 
 https://laravel.com/docs/5.8/collections
 
-https://github.com/geelen/x-gif
-
 https://ru.vuejs.org/v2/guide/index.html
 
 https://vuetifyjs.com/en/getting-started/quick-start
