@@ -241,8 +241,6 @@ https://www.coursera.org/learn/snovy-html-i-css
 
 https://www.geeksforgeeks.org/
 
-https://loftschool.com/
-
 https://tutorial.djangogirls.org/
 
 https://www.internet-technologies.ru/articles/markup/css/
