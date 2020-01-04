@@ -419,7 +419,7 @@ ttps://www.businessnewsdaily.com/10733-programming-certifications.html
 
 https://www.businessnewsdaily.com/10757-best-web-certifications.html
 
-https://www.elastic.co/what-is/elasticsearch
+
 
 http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
