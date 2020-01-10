@@ -439,8 +439,6 @@ http://manpages.ubuntu.com/manpages/precise/man5/crontab.5.html
 
 https://habr.com/ru/post/99653/
 
-https://habr.com/ru/post/99041/
-
 https://symfony.com/doc/current/components/dom_crawler.html#installation
 
 https://ru.hexlet.io/knowledge
