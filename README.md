@@ -455,6 +455,10 @@ https://eslint.org/docs/user-guide/configuring
 
 https://habr.com/ru/company/yandex/blog/486146/
 
+https://habr.com/ru/post/308750/
+
+https://habr.com/ru/post/88293/
+
 ####-----------------------------
 
 
