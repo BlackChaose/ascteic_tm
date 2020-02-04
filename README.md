@@ -453,6 +453,8 @@ https://asciinema.org/~0x4e494b
 
 https://eslint.org/docs/user-guide/configuring
 
+https://habr.com/ru/company/yandex/blog/486146/
+
 ####-----------------------------
 
 
