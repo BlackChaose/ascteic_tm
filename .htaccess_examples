@@ -1,0 +1,48 @@
+# php settings
+php_value default_charset UTF-8
+php_value mbstring.internal_encoding UTF-8
+php_value upload_max_filesize 16M
+php_value post_max_size 16M
+AddType application/json .json
+# hide .git
+RewriteEngine On
+RedirectMatch 403 ^/.git/.*$
+RewriteRule ^.git/.*$ - [F,L]
+# rewrite https
+RewriteCond %{HTTP_HOST} ^www\.moisite\.ru$
+RewriteCond %{REQUEST_URI} !^/news/index\.php$ 
+RewriteCond %{REQUEST_URI} !^/news/$ 
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^(.*)$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+# compress text, html, javascript, css, xml:
+<IfModule mod_mime.c>
+    AddType application/javascript          js
+    AddType application/vnd.ms-fontobject   eot
+    AddType application/x-font-ttf          ttf ttc
+    AddType font/opentype                   otf
+    AddType application/x-font-woff         woff
+    AddType image/svg+xml                   svg svgz
+    AddEncoding gzip                        svgz
+</IfModule>
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/css application/json
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE text/xml application/xml text/x-component
+    AddOutputFilterByType DEFLATE application/xhtml+xml application/rss+xml application/atom+xml
+    AddOutputFilterByType DEFLATE image/x-icon image/svg+xml application/vnd.ms-fontobject application/x-font-ttf font/opentype
+</IfModule>
+<IfModule mod_headers.c>
+ <FilesMatch "\.(ico|jpe?g|png|gif|swf|css|gz)$">
+ Header set Cache-Control "max-age=2592000, public"
+ </FilesMatch>
+ <FilesMatch "\.(js)$">
+ Header set Cache-Control "max-age=2592000, private"
+ </FilesMatch>
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=7200, public"
+</FilesMatch>
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+Header unset Cache-Control
+</FilesMatch>
+</IfModule>
