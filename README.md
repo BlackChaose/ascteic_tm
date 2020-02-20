@@ -457,8 +457,6 @@ https://habr.com/ru/company/yandex/blog/486146/
 
 https://habr.com/ru/post/308750/
 
-https://habr.com/ru/post/88293/
-
 ####-----------------------------
 
 https://school.kontur.ru/publications/1624
