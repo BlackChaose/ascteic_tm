@@ -459,6 +459,4 @@ https://habr.com/ru/post/308750/
 
 ####-----------------------------
 
-https://school.kontur.ru/publications/1624
 
-https://12factor.net/ru/
