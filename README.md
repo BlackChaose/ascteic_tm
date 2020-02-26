@@ -427,8 +427,6 @@ https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard
 
 https://adventureland.events.sk.ru/#event_widgets_About-show
 
-https://rb.ru/howto/pitch/
-
 https://habr.com/en/company/first/blog/349256/
 
 https://m.habr.com/ru/company/first/blog/348686/
