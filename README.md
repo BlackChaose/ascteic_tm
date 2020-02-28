@@ -456,5 +456,6 @@ https://habr.com/ru/company/yandex/blog/486146/
 https://habr.com/ru/post/308750/
 
 ####-----------------------------
+https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
 
 
