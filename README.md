@@ -451,8 +451,6 @@ https://asciinema.org/~0x4e494b
 
 https://eslint.org/docs/user-guide/configuring
 
-https://habr.com/ru/company/yandex/blog/486146/
-
 ####-----------------------------
 https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
 http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html
