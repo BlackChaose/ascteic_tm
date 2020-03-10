@@ -455,3 +455,4 @@ https://eslint.org/docs/user-guide/configuring
 https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
 http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html
 
+https://unix.stackexchange.com/questions/48973/execute-a-command-before-shutdown
