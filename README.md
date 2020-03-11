@@ -81,6 +81,8 @@ https://docs.python.org/2/library/optparse.html
 
 https://pythex.org/
 
+https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
