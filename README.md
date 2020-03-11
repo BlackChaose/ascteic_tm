@@ -83,6 +83,8 @@ https://pythex.org/
 
 https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns
 
+https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-16-04
+
 ### IDE & TEXT EDITORS ###
 
 https://www.geany.org/documentation/manual/
