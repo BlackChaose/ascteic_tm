@@ -406,6 +406,7 @@ https://blog.selectel.com/auditing-system-events-linux/
 
 https://www.here.com
 
+https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04
 
 #### AI ML ####
 
