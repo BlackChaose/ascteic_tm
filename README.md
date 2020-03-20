@@ -500,5 +500,5 @@ https://thecode.media/ruby/
 
 https://pentesttools.net/
 
-https://www.guru99.com/top-5-penetration-testing-tools.html
+
 
