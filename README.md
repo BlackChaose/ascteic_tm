@@ -492,13 +492,7 @@ https://laravel.com/docs/6.x/structure#the-public-directory
 
 https://www.dahelp.ru/zametki/kak-chitat-logi-exim
 
-http://www.ex-parrot.com/~pdw/Mail-RFC822-Address.html
 
-https://www.psychologos.ru/articles/view/kak-pobedit-pristupy-gneva
-
-https://thecode.media/ruby/
-
-https://pentesttools.net/
 
 
 
