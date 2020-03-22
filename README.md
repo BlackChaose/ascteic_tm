@@ -478,19 +478,7 @@ https://lpgenerator.ru/blog/2017/08/26/75-instrumentov-veb-animacii-kotorye-vam-
 
 https://agro-code.ru/?utm_source=agrohack2020_telegrampublic_share&utm_medium=cpc&utm_campaign=frontendproglib
 
-https://ux.pub/polnoe-rukovodstvo-po-pravilnomu-ispolzovaniyu-animatsii-v-ux/
 
-https://prglb.ru/56k36
-
-https://prglb.ru/2iun2
-
-https://db-engines.com/en/system/MongoDB%3BOrientDB
-
-https://proglib.io/p/kak-ne-sgoret-na-rabote-esli-ty-programmist-2020-03-12
-
-https://laravel.com/docs/6.x/structure#the-public-directory
-
-https://www.dahelp.ru/zametki/kak-chitat-logi-exim
 
 
 
