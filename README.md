@@ -470,9 +470,6 @@ https://laravel.ru/docs/v5/providers
 
 https://laravel.ru/docs/v5/middleware
 
-https://lpgenerator.ru/blog/2017/08/26/75-instrumentov-veb-animacii-kotorye-vam-nuzhno-isprobovat/
-
-https://agro-code.ru/?utm_source=agrohack2020_telegrampublic_share&utm_medium=cpc&utm_campaign=frontendproglib
 
 
 
