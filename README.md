@@ -467,13 +467,3 @@ https://orientdb.com/orientdb-vs-mongodb/
 ### see on weekend
 
 https://laravel.ru/docs/v5/providers
-
-https://laravel.ru/docs/v5/middleware
-
-
-
-
-
-
-
-
