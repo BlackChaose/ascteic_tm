@@ -464,6 +464,6 @@ https://unix.stackexchange.com/questions/39226/how-to-run-a-script-with-systemd-
 https://laravel.com/docs/6.x/controllers#resource-controllers
 https://orientdb.com/orientdb-vs-mongodb/
 
-### see on weekend
+### see
 
 https://laravel.ru/docs/v5/providers
