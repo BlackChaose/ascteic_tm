@@ -185,13 +185,11 @@ http://phantomjs.org/
 https://webdriver.io/docs/gettingstarted.html
 
 
-
 ### **Book Libraryes:**
 
 http://www.allitebooks.org/
 
 https://github.com/EbookFoundation/free-programming-books
-
 
 
 
@@ -423,8 +421,6 @@ https://blog.teamweek.com/2018/10/the-11-best-project-management-certifications-
 ttps://www.businessnewsdaily.com/10733-programming-certifications.html
 
 https://www.businessnewsdaily.com/10757-best-web-certifications.html
-
-
 
 http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
