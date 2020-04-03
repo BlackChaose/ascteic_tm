@@ -446,8 +446,6 @@ https://pear.php.net/package/PHP_CodeSniffer
 
 https://stackoverflow.com/questions/34034730/how-to-enable-color-for-php-cli
 
-https://poser.pugx.org/
-
 https://asciinema.org/~0x4e494b
 
 https://eslint.org/docs/user-guide/configuring
