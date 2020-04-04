@@ -93,7 +93,7 @@ https://www.jetbrains.com/help/phpstorm/sharing-your-ide-settings.html#IDE_setti
 
 https://dbeaver.io/download/
 
-
+https://www.extendoffice.com/documents/excel/2465-excel-shortcut-insert-or-delete-row-column-tab.html
 
 ### Utility ###
 
