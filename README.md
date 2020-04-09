@@ -269,8 +269,6 @@ https://codebeautify.org/jsonviewer
 
 https://canvasjs.com/php-charts/chart-index-data-label/
 
-http://recharts.org/en-US/guide/getting-started
-
 https://stackoverflow.com/questions/27221438/cron-every-day-at-6-pm
 
 https://linuxconfig.org/keep-your-home-safe-with-cron-backups
