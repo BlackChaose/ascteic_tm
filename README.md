@@ -350,8 +350,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_worke
 
 https://github.com/barryvdh/laravel-debugbar
 
-https://github.com/hexlet-codebattle/codebattle
-
 https://laracasts.com/discuss/channels/laravel/how-to-load-huge-data-in-html-table-using-laravel-and-data-table
 
 https://stackoverflow.com/questions/56456595/laravel-5-8-a-facade-root-has-not-been-set-after-homestead-restart
