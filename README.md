@@ -444,6 +444,8 @@ https://asciinema.org/~0x4e494b
 
 https://eslint.org/docs/user-guide/configuring
 
+https://github.com/nodesource/distributions/blob/master/README.md#debinstall
+
 ####-----------------------------
 
 https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
