@@ -446,6 +446,8 @@ https://eslint.org/docs/user-guide/configuring
 
 https://github.com/nodesource/distributions/blob/master/README.md#debinstall
 
+https://www.git-tower.com/learn/git/faq/change-author-name-email
+
 ####-----------------------------
 
 https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
