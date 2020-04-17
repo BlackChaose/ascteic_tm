@@ -458,6 +458,6 @@ https://laravel.com/docs/6.x/controllers#resource-controllers
 https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
 
 ### see
-
+https://w3path.com/laravel-6-multiple-authentication-system-example-tutorial/
 https://laravel.ru/docs/v5/providers
 https://kontext.tech/column/tools/308/how-to-install-windows-subsystem-for-linux-on-a-non-c-drive
