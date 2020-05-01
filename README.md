@@ -422,8 +422,6 @@ https://adventureland.events.sk.ru/#event_widgets_About-show
 
 https://habr.com/en/company/first/blog/349256/
 
-https://m.habr.com/ru/company/mailru/blog/266811/
-
 http://manpages.ubuntu.com/manpages/precise/man5/crontab.5.html
 
 https://symfony.com/doc/current/components/dom_crawler.html#installation
