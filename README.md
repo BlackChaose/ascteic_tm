@@ -259,8 +259,6 @@ https://vk.com/@javarush-10-principov-oop-o-kotoryh-stoit-znat-kazhdomu-programm
 
 http://www.brendangregg.com/overview.html
 
-https://github.com/bol-van/zapret
-
 https://laravel.ru/posts/1120
 
 https://codebeautify.org/jsonviewer
