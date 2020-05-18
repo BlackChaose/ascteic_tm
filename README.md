@@ -19,6 +19,8 @@ https://ru.hexlet.io/blog/posts/traps-learning
 
 https://docs.adobe.com/content/help/en/target/using/experiences/vec/mobile-viewports.html
 
+https://letsencrypt.org/
+
 ### **Handbooks & manuals:**
 
 https://developer.mozilla.org
