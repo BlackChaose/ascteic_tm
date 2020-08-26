@@ -470,4 +470,4 @@ https://linuxize.com/post/how-to-add-apt-repository-in-ubuntu/
 https://medium.com/@lewwybogus/how-to-stop-wsl2-from-hogging-all-your-ram-with-docker-d7846b9c5b37
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/set-alias?view=powershell-7
 
-
+https://github.com/MicrosoftDocs/WSL/issues/418
