@@ -453,3 +453,21 @@ https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
 https://w3path.com/laravel-6-multiple-authentication-system-example-tutorial/
 https://laravel.ru/docs/v5/providers
 https://kontext.tech/column/tools/308/how-to-install-windows-subsystem-for-linux-on-a-non-c-drive
+
+### dancing with Windows WSL & Ubuntu 18.04
+
+https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
+
+https://www.cloudbooklet.com/upgrade-php-version-to-php-7-4-on-ubuntu/
+https://habr.com/ru/post/481746/
+https://spys.one/en/socks-proxy-list/
+https://www.howtogeek.com/howto/28609/how-can-i-tell-what-is-listening-on-a-tcpip-port-in-windows/
+https://temofeev.ru/info/articles/nastroyka-okruzheniya-v-cli-wsl-windows-terminal/
+https://github.com/microsoft/WSL/issues/4507
+https://habr.com/ru/post/505634/
+https://deb.sury.org/
+https://linuxize.com/post/how-to-add-apt-repository-in-ubuntu/
+https://medium.com/@lewwybogus/how-to-stop-wsl2-from-hogging-all-your-ram-with-docker-d7846b9c5b37
+
+
+
