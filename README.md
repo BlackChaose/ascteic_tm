@@ -442,7 +442,7 @@ https://www.git-tower.com/learn/git/faq/change-author-name-email
 
 https://www.sourceallies.com/2009/11/vim-splits-an-introduction/
 
-https://unix.stackexchange.com/questions/48973/execute-a-command-before-shutdown
+
 https://unix.stackexchange.com/questions/39226/how-to-run-a-script-with-systemd-right-before-shutdown
 https://laravel.com/docs/6.x/controllers#resource-controllers
 https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
