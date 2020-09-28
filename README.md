@@ -414,8 +414,6 @@ https://www.businessnewsdaily.com/10757-best-web-certifications.html
 
 http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
-https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fdashboard
-
 https://adventureland.events.sk.ru/#event_widgets_About-show
 
 https://habr.com/en/company/first/blog/349256/
