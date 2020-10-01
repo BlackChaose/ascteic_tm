@@ -376,8 +376,6 @@ https://shareurcodes.com/blog/ajax-live-search-with-images-and-custom-html-in-la
 
 https://pusher.com/tutorials/search-laravel-vue
 
-https://www.awwwards.com/websites/vue-js/
-
 https://www.sourcecodester.com/tutorials/php/11876/live-search-using-vuejs-php.html
 
 https://refactoring.guru/ru/design-patterns/history
