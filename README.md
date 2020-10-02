@@ -249,8 +249,6 @@ https://www.geeksforgeeks.org/
 
 https://tutorial.djangogirls.org/
 
-https://stackoverflow.com/questions/tagged/css
-
 https://developer.mozilla.org/ru/docs/Web/CSS
 
 https://webref.ru/layout/learn-html-css
