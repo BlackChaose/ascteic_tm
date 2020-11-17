@@ -157,6 +157,8 @@ https://vuejs.org/v2/examples/index.html
 
 https://coreui.io
 
+https://egghead.io/courses/the-beginner-s-guide-to-react
+
 ### Чарты ###
 
 https://echarts.apache.org/examples/en/index.html
