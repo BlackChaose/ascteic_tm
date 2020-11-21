@@ -43,7 +43,7 @@ https://www.haskell.org/
 
 https://vuejs.org/v2/guide/
 https://habr.com/en/post/204274/
-http://hyperpolyglot.org
+
 
 https://yaml.org/spec/1.2/spec.html
 
