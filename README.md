@@ -225,8 +225,6 @@ https://refactoring.guru/ru/design-patterns
 https://hexlet.io
 
 
-https://codecademy.com
-
 https://edx.com
 
 https://www.edx.org/course/cs50s-introduction-to-computer-science
