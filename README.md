@@ -462,6 +462,8 @@ https://linuxize.com/post/how-to-add-apt-repository-in-ubuntu/
 https://medium.com/@lewwybogus/how-to-stop-wsl2-from-hogging-all-your-ram-with-docker-d7846b9c5b37
 https://github.com/MicrosoftDocs/WSL/issues/418
 
+### dancing with WSL2 & Ubuntu 18.04
+https://github.com/microsoft/WSL/issues/5298
 
 ### other(bug, fix, etc.)###
 https://andreyex.ru/linux/ispravlenie-oshibki-system-has-not-been-booted-with-systemd-as-init-system/
