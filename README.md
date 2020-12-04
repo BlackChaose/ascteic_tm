@@ -467,3 +467,21 @@ https://github.com/microsoft/WSL/issues/5298
 
 ### other(bug, fix, etc.)###
 https://andreyex.ru/linux/ispravlenie-oshibki-system-has-not-been-booted-with-systemd-as-init-system/
+
+### git reps
+
+https://github.com/lauragift21/awesome-learning-resources
+
+https://github.com/EbookFoundation/free-programming-books
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
+https://github.com/elsewhencode/project-guidelines
+
+https://github.com/florinpop17/app-ideas
+
+https://github.com/trekhleb/javascript-algorithms
+
+https://github.com/kamranahmedse/developer-roadmap
+
+
