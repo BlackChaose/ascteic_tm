@@ -412,8 +412,6 @@ http://paletton.com/#uid=1000u0kw0sSkR-+qtw8zVncG5hZ
 
 https://adventureland.events.sk.ru/#event_widgets_About-show
 
-https://habr.com/en/company/first/blog/349256/
-
 http://manpages.ubuntu.com/manpages/precise/man5/crontab.5.html
 
 https://symfony.com/doc/current/components/dom_crawler.html#installation
