@@ -253,6 +253,21 @@ https://developer.mozilla.org/ru/docs/Web/CSS
 
 https://webref.ru/layout/learn-html-css
 
+### Security
+
+https://cwe.mitre.org
+https://cve.mitre.org
+https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/common-configuration-enumeration-cce
+https://ncp.nist.gov/cce/index
+https://owasp.org/
+https://owasp.org/www-project-top-ten/
+https://owasp.org/www-project-zap/
+
+### DevOps
+https://www.ansible.com
+https://www.python.org/downloads/
+https://www.virtualbox.org/wiki/Downloads
+https://www.elastic.co/downloads?elektra=ess-pricing&storm=downloads-selfmanaged-standard&rogue=20518683498
 
 
 ### Notes ###
