@@ -21,7 +21,7 @@ https://ru.hexlet.io/blog/posts/traps-learning
 
 https://letsencrypt.org/
 
-http://www.allitebooks.org/
+https://martinfowler.com/articles/branching-patterns.html
 
 ### **Handbooks & manuals:**
 
