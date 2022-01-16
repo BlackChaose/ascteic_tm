@@ -256,17 +256,27 @@ https://webref.ru/layout/learn-html-css
 ### Security
 
 https://cwe.mitre.org
+
 https://cve.mitre.org
+
 https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/common-configuration-enumeration-cce
+
 https://ncp.nist.gov/cce/index
+
 https://owasp.org/
+
 https://owasp.org/www-project-top-ten/
+
 https://owasp.org/www-project-zap/
 
 ### DevOps
+
 https://www.ansible.com
+
 https://www.python.org/downloads/
+
 https://www.virtualbox.org/wiki/Downloads
+
 https://www.elastic.co/downloads?elektra=ess-pricing&storm=downloads-selfmanaged-standard&rogue=20518683498
 
 
@@ -456,6 +466,7 @@ https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
 
 ### see
 https://w3path.com/laravel-6-multiple-authentication-system-example-tutorial/
+
 https://laravel.ru/docs/v5/providers
 
 
@@ -464,15 +475,25 @@ https://laravel.ru/docs/v5/providers
 https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
 
 https://www.cloudbooklet.com/upgrade-php-version-to-php-7-4-on-ubuntu/
+
 https://habr.com/ru/post/481746/
+
 https://spys.one/en/socks-proxy-list/
+
 https://www.howtogeek.com/howto/28609/how-can-i-tell-what-is-listening-on-a-tcpip-port-in-windows/
+
 https://temofeev.ru/info/articles/nastroyka-okruzheniya-v-cli-wsl-windows-terminal/
+
 https://github.com/microsoft/WSL/issues/4507
+
 https://habr.com/ru/post/505634/
+
 https://deb.sury.org/
+
 https://linuxize.com/post/how-to-add-apt-repository-in-ubuntu/
+
 https://medium.com/@lewwybogus/how-to-stop-wsl2-from-hogging-all-your-ram-with-docker-d7846b9c5b37
+
 https://github.com/MicrosoftDocs/WSL/issues/418
 
 ### dancing with WSL2 & Ubuntu 18.04
