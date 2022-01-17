@@ -464,12 +464,6 @@ https://unix.stackexchange.com/questions/39226/how-to-run-a-script-with-systemd-
 https://laravel.com/docs/6.x/controllers#resource-controllers
 https://www.fosslinux.com/34665/15-tar-command-in-linux-uses-with-examples.htm
 
-### see
-https://w3path.com/laravel-6-multiple-authentication-system-example-tutorial/
-
-https://laravel.ru/docs/v5/providers
-
-
 ### dancing with Windows WSL & Ubuntu 18.04
 
 https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
