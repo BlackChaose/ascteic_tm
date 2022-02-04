@@ -359,8 +359,6 @@ https://reactjs.org/docs/handling-events.html
 
 https://ru.hexlet.io/courses/js-setup-environment/lessons/babel/theory_unit
 
-https://ru.hexlet.io/blog/posts/modern-js-explained
-
 https://laracasts.com/series/laravel-from-scratch-2018
 
 https://www.w3resource.com/mysql/date-and-time-functions/mysql-timestamp-function.php
