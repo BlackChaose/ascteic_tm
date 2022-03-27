@@ -21,7 +21,8 @@ docker run -ti -p 8080:10001 --name <container name> <name>:<tag>
 ```
 ---
 
-***Build from Dockerfile (Remember about target - for example "." if Dockerfile is in current directory! ***
+***Build from Dockerfile (Remember about target - for example "." if Dockerfile is in current directory!***
 ```Docker
 docker build -t "<name>:<tag>" .
 ```
+---
