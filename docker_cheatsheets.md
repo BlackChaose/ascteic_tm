@@ -12,9 +12,11 @@ docker rm -f $(docker ps -a -q)
 ```
 ---
 
-***Forward port from host to container***
+***Publish port from container to host, for example use: http://localhost:5001 or use: http://localhost:10001***
 ```Docker
-docker run -ti -p 8080:80 --name <container name> <name>:<tag>
+docker run -d -ti --publish 5001:5001 a02ecc649843
+#or
+docker run -ti -p 8080:10001 --name <container name> <name>:<tag>
             <container:host>
 ```
 ---
