@@ -1,4 +1,0 @@
-#delete all containers
-```docker
-docker rm -f $(docker ps -a -q)
-```
