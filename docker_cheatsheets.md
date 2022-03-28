@@ -1,13 +1,20 @@
 # My cheatsheets for docker
 
-***Show images***
+***Show images [see documentation](https://docs.docker.com/engine/reference/commandline/images/)***
 ```Docker
 docker images -a
 ```
 ---
+
+***Show imgaes before one image***
+```Docker
+docker images --filter "before=image1"
+```
+---
+
 ***Show images since one image***
 ```Docker
-
+docker images --filter "since=image3"
 ```
 ---
 
@@ -21,7 +28,7 @@ docker image rm <imagename>
 docker image rm -f $(docker images --format "{{.ID}}" )
 ```
 ---
-***Delete all images***
+***Delete all images  [link to documentation](https://docs.docker.com/engine/reference/commandline/image_prune/)***
 ```Docker
 docker image prune
 #or
@@ -48,12 +55,6 @@ docker rmi $(docker images -f "dangling=true" -q)
 ***Delete all containers***
 ```Docker
 docker rm -f $(docker ps -a -q)
-```
----
-
-***Delete all images*** [link to documentation](https://docs.docker.com/engine/reference/commandline/image_prune/)
-```Docker
- docker image prune -a
 ```
 ---
 
